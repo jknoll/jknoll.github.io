@@ -39,7 +39,7 @@ March, 2025
 
 Formed a team and competed against 120+ hackers to create the best Pokémon playing agent based on Claude 3.7 Sonnet, determined by distance-from-origin progress through a notoriously challenging level as the objective function. Experimented with agent prompt engineering, vision coordinate overlays, splitting/sub-specialization of tools, and alternative context compression algorithms.
 
-### Multimodal/Video Hackathon, OIX and Susa Ventures (Winner: Best Technical Execution | LatentSync, Sesame CSM)
+### Multimodal/Video Hackathon, OIX and Susa Ventures (Winner: Best Technical Execution)
 April, 2025
 
 Created a realtime AI-enabled video avatar for conversational assistance in scheduling and other administrative tasks. Implemented a solution using ByteDance LatentSync 1.5 for video/audio lip synchronization, Sesame CSM (Conversational Speech Model) for realistic text-to-speech, Google Calendar API for scheduling and the WebAudio API and Mavi Transcription APIs for capturing user questions for the agent via browser microphone input.
