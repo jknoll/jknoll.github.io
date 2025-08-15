@@ -1,5 +1,5 @@
 ---
-…
+title: Justin F. Knoll Project Page
 ---
 # Justin F. Knoll
 
