@@ -55,7 +55,7 @@ The user can name a historical engineering mechanism or artifact. For example, t
 
 [Link](https://devpost.com/software/claudecad)
 
-### Nous Research Atropos RL Environments Hackathon (Distributed Reinforcement Learning)
+### Nous Research Atropos RL Environments Hackathon (Distributed RL)
 May, 2025
 
 Created an environment for distributed reinforcement learning within the Nous Research [Atropos](https://github.com/NousResearch/atropos) framework. Generated a set of 1K conversational samples with (preferred, dispreferred) response pairs via a meta-prompt. Used these response pairs for DPO training of conversational models to align with individual user preferences in tone, politeness, etc. 
