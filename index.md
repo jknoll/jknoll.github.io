@@ -4,7 +4,7 @@ title: Justin F. Knoll Project Page
 
 I've recently conducted an artificial intelligence and machine learning deep dive, with hands-on coding and hackathon competition as a way to create tangible implementations and connect with others in the industry. Over the course of this deep dive, I've been able to compete in a broad spectrum of competitions, tally a number of wins, and accumulate more than $42,000 in GPU and API prize credits in a short time.
 
-## Artificial Intelligence/Machine Learning Hackathons and Projects
+## AI and ML Hackathons and Projects
 
 ### Chess AI Hackathon (Winner 6x | Python, PyTorch, NumPy, Cluster Training)
 August, 2024-March, 2025
