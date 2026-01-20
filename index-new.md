@@ -69,6 +69,36 @@ Created an environment for distributed reinforcement learning within the Nous Re
 
 [Deck](https://docs.google.com/presentation/d/1s1xLnoPEATmgy1S0MrFJ9xdsFAA1XhNOsAkkgVaMlIE/edit?slide=id.g35a3b68de50_0_1097#slide=id.g35a3b68de50_0_1097)
 
+## Professional Certifications
+
+<style>
+.cert-table { width: 100%; border-collapse: collapse; margin: 1em 0; }
+.cert-table th, .cert-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #e1e1e1; }
+.cert-table th { font-weight: 600; }
+.cert-icon { width: 20px; height: 20px; vertical-align: middle; margin-right: 6px; }
+.cert-issuer { display: flex; align-items: center; }
+</style>
+
+### AI & LLM Development
+
+| Certification | Issuer | Date | |
+|:--|:--|:--|:--|
+| Google Cloud Attention Mechanism | <img src="https://www.google.com/favicon.ico" class="cert-icon" alt="Google">Google | Dec 2025 | [Credential](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077514) |
+| Google Cloud Introduction to Image Generation | <img src="https://www.google.com/favicon.ico" class="cert-icon" alt="Google">Google | Dec 2025 | [Credential](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077468) |
+| Introduction to Model Context Protocol | <img src="https://www.anthropic.com/favicon.ico" class="cert-icon" alt="Anthropic">Anthropic | Dec 2025 | [Credential](https://verify.skilljar.com/c/gof5dqdep7jb) |
+| Building with the Claude API | <img src="https://www.anthropic.com/favicon.ico" class="cert-icon" alt="Anthropic">Anthropic | Nov 2025 | [Credential](https://verify.skilljar.com/c/vdtotcggcu9c) |
+| Claude Code in Action | <img src="https://www.anthropic.com/favicon.ico" class="cert-icon" alt="Anthropic">Anthropic | Nov 2025 | [Credential](https://verify.skilljar.com/c/ud93e5ugyay7) |
+| LangChain Essentials – Python | <img src="https://python.langchain.com/img/favicon.ico" class="cert-icon" alt="LangChain">LangChain | Nov 2025 | [Credential](https://academy.langchain.com/certificates/mdoxpdfcxu) |
+| LangGraph Essentials – Python | <img src="https://python.langchain.com/img/favicon.ico" class="cert-icon" alt="LangChain">LangChain | Nov 2025 | [Credential](https://academy.langchain.com/certificates/n1gd9f4jqk) |
+| Neural Networks and Deep Learning | <img src="https://www.deeplearning.ai/favicon.ico" class="cert-icon" alt="DeepLearning.AI">DeepLearning.AI | Oct 2020 | [Credential](http://coursera.org/verify/QK88DVWS3N2Q) |
+
+### Product & Process
+
+| Certification | Issuer | Date | |
+|:--|:--|:--|:--|
+| Inspired: How to Create Tech Products Customers Love | <img src="https://www.svpg.com/favicon.ico" class="cert-icon" alt="SVPG">SVPG | Apr 2015 | |
+| Certified ScrumMaster | <img src="https://www.scrumalliance.org/favicon.ico" class="cert-icon" alt="Scrum Alliance">Scrum Alliance | Oct 2008 | |
+
 ## Professional Skills
 
 ### AI & Machine Learning
@@ -155,79 +185,6 @@ Created an environment for distributed reinforcement learning within the Nous Re
 **Developer Relations**
 - API platforms, SDKs, community growth, technical evangelism, and developer experience.
 - *Associated With:* MetaMask
-
-## Professional Certifications
-
-### AI & LLM Development
-
-**Google Cloud Attention Mechanism**
-- *Issuing Authority:* Google
-- *Issued:* Dec 2025
-- *Skills:* Attention Mechanism, Transformers
-- *Description:* This course introduces the attention mechanism, a technique that allows neural networks to focus on specific parts of an input sequence. It covers how attention improved machine translation and is a core component of the Transformer architecture.
-- [Credential Link](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077514)
-
-**Google Cloud Introduction to Image Generation**
-- *Issuing Authority:* Google
-- *Issued:* Dec 2025
-- *Skills:* Diffusion Models
-- *Description:* An introductory course on image generation, focusing on diffusion models. It explains the theory behind training and deploying models that can create high-quality images from text prompts or other inputs.
-- [Credential Link](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077468)
-
-**Introduction to Model Context Protocol**
-- *Issuing Authority:* Anthropic
-- *Issued:* Dec 2025
-- *Skills:* Model Context Protocol (MCP)
-- *Description:* This course covers the Model Context Protocol (MCP), an open standard for connecting AI models to data sources. It teaches developers how to create MCP servers and clients to provide LLMs with secure, real-time access to local and remote data.
-- [Credential Link](https://verify.skilljar.com/c/gof5dqdep7jb)
-
-**Building with the Claude API**
-- *Issuing Authority:* Anthropic
-- *Issued:* Nov 2025
-- *Skills:* Large Language Models (LLM), Anthropic Claude, Prompt Engineering, Retrieval-Augmented Generation (RAG), AI Agents
-- *Description:* A comprehensive guide to building applications with Claude. Topics include mastering the Messages API, implementing Tool Use (function calling), and building Retrieval-Augmented Generation (RAG) workflows for enterprise use cases.
-- [Credential Link](https://verify.skilljar.com/c/vdtotcggcu9c)
-
-**Claude Code in Action**
-- *Issuing Authority:* Anthropic
-- *Issued:* Nov 2025
-- *Skills:* AI Agents, Model Context Protocol (MCP), Coding Agents, GitHub, Anthropic Claude
-- *Description:* This course demonstrates Claude Code, a CLI agent designed for software engineering. It covers how to use the agent for codebase exploration, refactoring, and complex cross-file edits while maintaining security and efficiency.
-- [Credential Link](https://verify.skilljar.com/c/ud93e5ugyay7)
-
-**LangChain Essentials – Python**
-- *Issuing Authority:* LangChain
-- *Issued:* Nov 2025
-- *Skills:* LangGraph, LangChain, AI Agents
-- *Description:* An introduction to the LangChain ecosystem. The course details how to use prompt templates, chains, and retrievers to build modular LLM applications, as well as an introduction to LangSmith for debugging and monitoring.
-- [Credential Link](https://academy.langchain.com/certificates/mdoxpdfcxu)
-
-**LangGraph Essentials – Python**
-- *Issuing Authority:* LangChain
-- *Issued:* Nov 2025
-- *Skills:* LangChain, AI Agents
-- *Description:* This course focuses on LangGraph, a library for building stateful, multi-actor applications with LLMs. It covers creating cyclic graphs, managing state over time, and building reliable agentic workflows that can handle human-in-the-loop interactions.
-- [Credential Link](https://academy.langchain.com/certificates/n1gd9f4jqk)
-
-**Neural Networks and Deep Learning**
-- *Issuing Authority:* DeepLearning.AI
-- *Issued:* Oct 2020
-- *Skills:* Artificial Intelligence (AI), Transformers, Machine Learning, Generative AI Tools, Neural Networks, Deep Learning
-- *Description:* The first course in the Deep Learning Specialization. It covers the foundations of neural networks, including building a simple network with one hidden layer and implementing a deep neural network using Python and NumPy.
-- [Credential Link](http://coursera.org/verify/QK88DVWS3N2Q)
-
-### Product & Process
-
-**Inspired: How to Create Tech Products Customers Love**
-- *Issuing Authority:* Silicon Valley Product Group
-- *Issued:* Apr 2015
-- *Description:* Based on the book by Marty Cagan, this workshop focuses on the product discovery and delivery process within modern technology organizations. It emphasizes creating products that are valuable, usable, feasible, and viable.
-
-**Scrum Alliance Certified ScrumMaster**
-- *Issuing Authority:* Scrum Alliance
-- *Issued:* Oct 2008
-- *Credential ID:* 000041269
-- *Description:* The Certified ScrumMaster training provides the foundations of the Scrum framework. It covers roles, events, and artifacts, focusing on how a ScrumMaster helps a team work effectively through collaboration and iterative delivery.
 
 <!--
 ## Publications
