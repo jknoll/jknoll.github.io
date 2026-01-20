@@ -26,7 +26,6 @@ exclude:
   - README.md
   - CLAUDE.md
   - requirements.txt
-  - index-new.md
   - linkedin-skills.md
   - linkedin-licenses-certifications.md
 
