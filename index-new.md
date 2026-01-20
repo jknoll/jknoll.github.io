@@ -48,7 +48,7 @@ profile_image: profile-400.jpg
 </ul>
 </nav>
 
-<div class="main-content">
+<div class="main-content" markdown="1">
 
 <div class="profile-section">
   <img src="{{ page.profile_image }}" alt="Profile Photo" class="profile-photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
@@ -56,7 +56,7 @@ profile_image: profile-400.jpg
 
 # Introduction
 
-I've recently conducted an artificial intelligence and machine learning deep dive, hands-on coding and hackathon competition as a way to create tangible implementations and connect with others in the industry. Over the course of this deep dive, I've been able to compete in a broad spectrum of competitions, tally a number of wins, and accumulate more than $42,000 in GPU and API prize credits in a short time.
+I've recently conducted an artificial intelligence and machine learning deep dive, using extensive hands-on coding and hackathon competitions as a way to create tangible implementations and connect with others in the industry. Over the course of this deep dive, I've been able to compete in a broad spectrum of competitions, tally a number of wins, and accumulate more than $47,000 in GPU and API prize credits in a short time.
 
 ## AI and ML Hackathons and Projects
 
