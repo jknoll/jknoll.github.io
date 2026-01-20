@@ -72,119 +72,70 @@ Created an environment for distributed reinforcement learning within the Nous Re
 ## Professional Certifications
 
 <style>
-.cert-table { width: 100%; border-collapse: collapse; margin: 1em 0; }
-.cert-table th, .cert-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #e1e1e1; }
-.cert-table th { font-weight: 600; }
-.cert-icon { width: 20px; height: 20px; vertical-align: middle; margin-right: 6px; }
-.cert-issuer { display: flex; align-items: center; }
+.cert-icon { width: 16px; height: 16px; vertical-align: middle; margin-right: 4px; }
 </style>
 
 ### AI & LLM Development
 
 | Certification | Issuer | Date | |
 |:--|:--|:--|:--|
-| Google Cloud Attention Mechanism | <img src="https://www.google.com/favicon.ico" class="cert-icon" alt="Google">Google | Dec 2025 | [Credential](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077514) |
-| Google Cloud Introduction to Image Generation | <img src="https://www.google.com/favicon.ico" class="cert-icon" alt="Google">Google | Dec 2025 | [Credential](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077468) |
-| Introduction to Model Context Protocol | <img src="https://www.anthropic.com/favicon.ico" class="cert-icon" alt="Anthropic">Anthropic | Dec 2025 | [Credential](https://verify.skilljar.com/c/gof5dqdep7jb) |
-| Building with the Claude API | <img src="https://www.anthropic.com/favicon.ico" class="cert-icon" alt="Anthropic">Anthropic | Nov 2025 | [Credential](https://verify.skilljar.com/c/vdtotcggcu9c) |
-| Claude Code in Action | <img src="https://www.anthropic.com/favicon.ico" class="cert-icon" alt="Anthropic">Anthropic | Nov 2025 | [Credential](https://verify.skilljar.com/c/ud93e5ugyay7) |
-| LangChain Essentials – Python | <img src="https://python.langchain.com/img/favicon.ico" class="cert-icon" alt="LangChain">LangChain | Nov 2025 | [Credential](https://academy.langchain.com/certificates/mdoxpdfcxu) |
-| LangGraph Essentials – Python | <img src="https://python.langchain.com/img/favicon.ico" class="cert-icon" alt="LangChain">LangChain | Nov 2025 | [Credential](https://academy.langchain.com/certificates/n1gd9f4jqk) |
-| Neural Networks and Deep Learning | <img src="https://www.deeplearning.ai/favicon.ico" class="cert-icon" alt="DeepLearning.AI">DeepLearning.AI | Oct 2020 | [Credential](http://coursera.org/verify/QK88DVWS3N2Q) |
+| Google Cloud Attention Mechanism | <img src="https://www.google.com/s2/favicons?domain=google.com&sz=32" class="cert-icon" alt="Google">Google | Dec 2025 | [Credential](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077514) |
+| Google Cloud Introduction to Image Generation | <img src="https://www.google.com/s2/favicons?domain=google.com&sz=32" class="cert-icon" alt="Google">Google | Dec 2025 | [Credential](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077468) |
+| Introduction to Model Context Protocol | <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" class="cert-icon" alt="Anthropic">Anthropic | Dec 2025 | [Credential](https://verify.skilljar.com/c/gof5dqdep7jb) |
+| Building with the Claude API | <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" class="cert-icon" alt="Anthropic">Anthropic | Nov 2025 | [Credential](https://verify.skilljar.com/c/vdtotcggcu9c) |
+| Claude Code in Action | <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" class="cert-icon" alt="Anthropic">Anthropic | Nov 2025 | [Credential](https://verify.skilljar.com/c/ud93e5ugyay7) |
+| LangChain Essentials – Python | <img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" class="cert-icon" alt="LangChain">LangChain | Nov 2025 | [Credential](https://academy.langchain.com/certificates/mdoxpdfcxu) |
+| LangGraph Essentials – Python | <img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" class="cert-icon" alt="LangChain">LangChain | Nov 2025 | [Credential](https://academy.langchain.com/certificates/n1gd9f4jqk) |
+| Neural Networks and Deep Learning | <img src="https://www.google.com/s2/favicons?domain=deeplearning.ai&sz=32" class="cert-icon" alt="DeepLearning.AI">DeepLearning.AI | Oct 2020 | [Credential](http://coursera.org/verify/QK88DVWS3N2Q) |
 
 ### Product & Process
 
 | Certification | Issuer | Date | |
 |:--|:--|:--|:--|
-| Inspired: How to Create Tech Products Customers Love | <img src="https://www.svpg.com/favicon.ico" class="cert-icon" alt="SVPG">SVPG | Apr 2015 | |
-| Certified ScrumMaster | <img src="https://www.scrumalliance.org/favicon.ico" class="cert-icon" alt="Scrum Alliance">Scrum Alliance | Oct 2008 | |
+| Inspired: How to Create Tech Products Customers Love | <img src="https://www.google.com/s2/favicons?domain=svpg.com&sz=32" class="cert-icon" alt="SVPG">SVPG | Apr 2015 | |
+| Certified ScrumMaster | <img src="https://www.google.com/s2/favicons?domain=scrumalliance.org&sz=32" class="cert-icon" alt="Scrum Alliance">Scrum Alliance | Oct 2008 | |
 
 ## Professional Skills
 
 ### AI & Machine Learning
 
-**Attention Mechanism**
-- Expertise in transformer attention layers, including self-attention, cross-attention, and their role in sequence modeling, scaling laws, and modern LLM architectures.
-- *Associated With:* Google Cloud Attention Mechanism
-
-**Diffusion Models**
-- Experience with diffusion-based generative modeling, including denoising diffusion probabilistic models (DDPMs), latent diffusion, and text-to-image systems.
-- *Associated With:* Google Cloud Introduction to Image Generation
-
-**Large Language Models (LLMs)**
-- Architecture, training paradigms, inference optimization, evaluation, and deployment of transformer-based language models.
-- *Associated With:* Anthropic Claude, LangChain, Google Cloud, DeepLearning.AI
-
-**Transformers**
-- Encoder-decoder models, self-attention scaling, positional encoding, and pretraining/fine-tuning dynamics.
-- *Associated With:* Google Cloud Attention Mechanism, DeepLearning.AI
-
-**Deep Learning**
-- CNNs, RNNs, optimization, regularization, representation learning, and large-scale training.
-- *Associated With:* Stanford University, DeepLearning.AI
-
-**Machine Learning**
-- Supervised, unsupervised, and reinforcement learning; model evaluation; feature engineering; production ML systems.
+| Skill | Description |
+|:--|:--|
+| Attention Mechanism | Transformer attention layers, self-attention, cross-attention, sequence modeling, scaling laws, modern LLM architectures |
+| Diffusion Models | Diffusion-based generative modeling, DDPMs, latent diffusion, text-to-image systems |
+| Large Language Models | Architecture, training paradigms, inference optimization, evaluation, deployment of transformer-based models |
+| Transformers | Encoder-decoder models, self-attention scaling, positional encoding, pretraining/fine-tuning dynamics |
+| Deep Learning | CNNs, RNNs, optimization, regularization, representation learning, large-scale training |
+| Machine Learning | Supervised, unsupervised, reinforcement learning; model evaluation; feature engineering; production ML systems |
 
 ### AI Agents & Orchestration
 
-**AI Agents**
-- Building autonomous and semi-autonomous LLM agents, including tool use, planning, memory, state machines, and human-in-the-loop workflows.
-- *Associated With:* LangGraph, LangChain, Claude API, Claude Code
-
-**Coding Agents**
-- Use of LLM-driven coding agents for repo navigation, refactoring, cross-file reasoning, test generation, and large-scale code transformation.
-- *Associated With:* Claude Code in Action
-
-**Model Context Protocol (MCP)**
-- Design and use of MCP servers and clients to provide secure, structured tool and data access for LLM agents.
-- *Associated With:* Anthropic – Introduction to MCP, Claude Code in Action
-
-**LangChain**
-- Chains, agents, tools, retrievers, memory, LangSmith observability, and modular LLM application design.
-- *Associated With:* LangChain Essentials – Python
-
-**LangGraph**
-- Graph-based control flow for multi-actor, cyclic, and long-running LLM workflows with durable state and human oversight.
-- *Associated With:* LangGraph Essentials – Python
-
-**Prompt Engineering**
-- Designing structured prompts, tool schemas, and conversation protocols for reliability, controllability, and reasoning depth.
-- *Associated With:* Building with the Claude API
-
-**Retrieval-Augmented Generation (RAG)**
-- End-to-end RAG pipelines: embedding, chunking, vector search, hybrid retrieval, and grounding generation in proprietary knowledge bases.
-- *Associated With:* Building with the Claude API
+| Skill | Description |
+|:--|:--|
+| AI Agents | Autonomous/semi-autonomous LLM agents, tool use, planning, memory, state machines, human-in-the-loop workflows |
+| Coding Agents | LLM-driven agents for repo navigation, refactoring, cross-file reasoning, test generation, code transformation |
+| Model Context Protocol | MCP servers/clients for secure, structured tool and data access for LLM agents |
+| LangChain | Chains, agents, tools, retrievers, memory, LangSmith observability, modular LLM application design |
+| LangGraph | Graph-based control flow for multi-actor, cyclic, long-running LLM workflows with durable state |
+| Prompt Engineering | Structured prompts, tool schemas, conversation protocols for reliability, controllability, reasoning depth |
+| RAG | End-to-end pipelines: embedding, chunking, vector search, hybrid retrieval, grounding in knowledge bases |
 
 ### Engineering & Systems
 
-**Software Engineering**
-- End-to-end software lifecycle: architecture, implementation, testing, deployment, and operations.
-- *Includes:* GitHub, CI/CD, Distributed Systems, Algorithm Design, Unix
-
-**Distributed Systems**
-- Scalable, fault-tolerant architectures, data pipelines, and large-scale backend systems.
-
-**Cloud Applications**
-- Designing and operating cloud-native, high-throughput, globally distributed services.
-- *Associated With:* Google Cloud, BitTorrent
-
-**Data & Analytics**
-- Designing metrics systems, analytical pipelines, and executive dashboards for product and research insights.
-- *Includes:* SQL, Big Data Analytics, Dashboard Metrics, Statistical Data Analysis, Data Visualization
+| Skill | Description |
+|:--|:--|
+| Software Engineering | End-to-end lifecycle: architecture, implementation, testing, deployment, operations (GitHub, CI/CD, Unix) |
+| Distributed Systems | Scalable, fault-tolerant architectures, data pipelines, large-scale backend systems |
+| Cloud Applications | Cloud-native, high-throughput, globally distributed services (Google Cloud, BitTorrent) |
+| Data & Analytics | Metrics systems, analytical pipelines, executive dashboards (SQL, Big Data, Data Visualization) |
 
 ### Web3 & Product
 
-**Web3 / Blockchain**
-- Ethereum ecosystem, wallets, smart contracts, DAOs, zero-knowledge systems, and cryptographic infrastructure.
-- *Associated With:* Consensys, MetaMask
-
-**Product Management**
-- Product strategy, OKRs, roadmapping, execution, growth, and cross-functional alignment for zero-to-one and scale products.
-
-**Developer Relations**
-- API platforms, SDKs, community growth, technical evangelism, and developer experience.
-- *Associated With:* MetaMask
+| Skill | Description |
+|:--|:--|
+| Web3 / Blockchain | Ethereum ecosystem, wallets, smart contracts, DAOs, zero-knowledge systems (Consensys, MetaMask) |
+| Product Management | Product strategy, OKRs, roadmapping, execution, growth, cross-functional alignment |
+| Developer Relations | API platforms, SDKs, community growth, technical evangelism, developer experience (MetaMask) |
 
 <!--
 ## Publications
