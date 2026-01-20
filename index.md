@@ -1,6 +1,13 @@
 ---
-title: Justin F. Knoll Project Page
+title: Justin F. Knoll
+layout: default
+author: Justin F. Knoll
+profile_image: profile-400.jpg
 ---
+
+<div class="profile-section">
+  <img src="{{ page.profile_image }}" alt="Profile Photo" class="profile-photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+</div>
 
 ## Introduction
 
@@ -11,9 +18,9 @@ I've recently conducted an artificial intelligence and machine learning deep div
 ### Chess AI Hackathon Series (Six-Time Winner | Python, PyTorch, NumPy, Cluster Training)
 August, 2024-March, 2025
 
-Formed and led a team of three in competition against ten San Francisco and Sydney teams to build the strongest possible chess-playing deep learning model in only two days. Sponsored by Strong Compute (YC W22) 
+Formed and led a team of three in competition against ten San Francisco and Sydney teams to build the strongest possible chess-playing deep learning model in only two days. Sponsored by Strong Compute (YC W22)
 
-Explored two high-level approaches: a vision-like CNN model and a language-like GPT model. A key inspiration for the GPT-based models was Adam Karvonen’s paper [Emergent World Models and Latent Variable Estimation in Chess-Playing Language Models](https://arxiv.org/abs/2403.15498). Within the vision approach, we experimented with CNNs, dilated convolution, ResNets, transformers, and multi-head self-attention. Trained on a 72xA100 cluster. Won the first tournament with a record of 8 wins, 1 loss, 1 draw, earning a $10K GPU compute credit. Released model source code and a case study.
+Explored two high-level approaches: a vision-like CNN model and a language-like GPT model. A key inspiration for the GPT-based models was Adam Karvonen's paper [Emergent World Models and Latent Variable Estimation in Chess-Playing Language Models](https://arxiv.org/abs/2403.15498). Within the vision approach, we experimented with CNNs, dilated convolution, ResNets, transformers, and multi-head self-attention. Trained on a 72xA100 cluster. Won the first tournament with a record of 8 wins, 1 loss, 1 draw, earning a $10K GPU compute credit. Released model source code and a case study.
 
 Returned as a solo entrant to win five out of six subsequent instances of the tournament.
 
@@ -22,7 +29,7 @@ April 2025-July 2025
 
 Research project to implement a deep convolutional neural network to perform multi-label classification of board positions sourced from the lichess puzzles dataset. Each board position is labeled with applicable themes (for example, back rank mate, zugzwang, advanced pawn, etc.) as well as openings, if relevant (for example, Sicilian Defense, The English Opening, etc.)
 
-A model is trained to recognize the positions and themes and then to apply the same classification mechanism to positions during live games or during review of unseen games. 
+A model is trained to recognize the positions and themes and then to apply the same classification mechanism to positions during live games or during review of unseen games.
 
 ### ARC-AGI Hackathon (Grant Recipient | ARC-DSL, Peano)
 September, 2024
@@ -32,7 +39,7 @@ Formed a team of three to develop and pitch an approach to the $1M ARC-AGI Chall
 ### DeepTruthSeek (PyTorch, SFT, LoRA, FSDP training)
 February, 2025
 
-Project to create a DeepSeek-r1-Llama-70B fine tune to improve detection and description of logical fallacies in written text. Used the CoCoLoFa dataset from ”CoCoLoFa: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds” and PyTorch Fully Sharded Data Parallel (FSDP) training.
+Project to create a DeepSeek-r1-Llama-70B fine tune to improve detection and description of logical fallacies in written text. Used the CoCoLoFa dataset from "CoCoLoFa: A Dataset of News Comments with Common Logical Fallacies Written by LLM-Assisted Crowds" and PyTorch Fully Sharded Data Parallel (FSDP) training.
 
 ### Anthropic Claude Plays Pokémon Hackathon (Grand Prize Winner | Agents, Claude 3.7 Sonnet)
 March, 2025
@@ -58,6 +65,94 @@ The user can name a historical engineering mechanism or artifact. For example, t
 ### Nous Research Atropos RL Environments Hackathon (Distributed RL)
 May, 2025
 
-Created an environment for distributed reinforcement learning within the Nous Research [Atropos](https://github.com/NousResearch/atropos) framework. Generated a set of 1K conversational samples with (preferred, dispreferred) response pairs via a meta-prompt. Used these response pairs for DPO training of conversational models to align with individual user preferences in tone, politeness, etc. 
+Created an environment for distributed reinforcement learning within the Nous Research [Atropos](https://github.com/NousResearch/atropos) framework. Generated a set of 1K conversational samples with (preferred, dispreferred) response pairs via a meta-prompt. Used these response pairs for DPO training of conversational models to align with individual user preferences in tone, politeness, etc.
 
 [Deck](https://docs.google.com/presentation/d/1s1xLnoPEATmgy1S0MrFJ9xdsFAA1XhNOsAkkgVaMlIE/edit?slide=id.g35a3b68de50_0_1097#slide=id.g35a3b68de50_0_1097)
+
+## Professional Certifications
+
+<style>
+.cert-icon { width: 16px; height: 16px; vertical-align: middle; margin-right: 4px; }
+</style>
+
+### AI & LLM Development
+
+| Certification | Issuer | Date | |
+|:--|:--|:--|:--|
+| Google Cloud Attention Mechanism | <img src="https://www.google.com/s2/favicons?domain=google.com&sz=32" class="cert-icon" alt="Google">Google | Dec 2025 | [Credential](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077514) |
+| Google Cloud Introduction to Image Generation | <img src="https://www.google.com/s2/favicons?domain=google.com&sz=32" class="cert-icon" alt="Google">Google | Dec 2025 | [Credential](https://www.skills.google/public_profiles/6e55b6c6-6fb3-4817-8af0-3b3c606f00c2/badges/21077468) |
+| Introduction to Model Context Protocol | <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" class="cert-icon" alt="Anthropic">Anthropic | Dec 2025 | [Credential](https://verify.skilljar.com/c/gof5dqdep7jb) |
+| Building with the Claude API | <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" class="cert-icon" alt="Anthropic">Anthropic | Nov 2025 | [Credential](https://verify.skilljar.com/c/vdtotcggcu9c) |
+| Claude Code in Action | <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=32" class="cert-icon" alt="Anthropic">Anthropic | Nov 2025 | [Credential](https://verify.skilljar.com/c/ud93e5ugyay7) |
+| LangChain Essentials – Python | <img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" class="cert-icon" alt="LangChain">LangChain | Nov 2025 | [Credential](https://academy.langchain.com/certificates/mdoxpdfcxu) |
+| LangGraph Essentials – Python | <img src="https://www.google.com/s2/favicons?domain=langchain.com&sz=32" class="cert-icon" alt="LangChain">LangChain | Nov 2025 | [Credential](https://academy.langchain.com/certificates/n1gd9f4jqk) |
+| Neural Networks and Deep Learning | <img src="https://www.google.com/s2/favicons?domain=deeplearning.ai&sz=32" class="cert-icon" alt="DeepLearning.AI">DeepLearning.AI | Oct 2020 | [Credential](http://coursera.org/verify/QK88DVWS3N2Q) |
+
+### Product & Process
+
+| Certification | Issuer | Date | |
+|:--|:--|:--|:--|
+| Inspired: How to Create Tech Products Customers Love | <img src="https://www.google.com/s2/favicons?domain=svpg.com&sz=32" class="cert-icon" alt="SVPG">SVPG | Apr 2015 | |
+| Certified ScrumMaster | <img src="https://www.google.com/s2/favicons?domain=scrumalliance.org&sz=32" class="cert-icon" alt="Scrum Alliance">Scrum Alliance | Oct 2008 | |
+
+## Professional Skills
+
+### AI & Machine Learning
+
+| Skill | Description |
+|:--|:--|
+| Attention Mechanism | Transformer attention layers, self-attention, cross-attention, sequence modeling, scaling laws, modern LLM architectures |
+| Diffusion Models | Diffusion-based generative modeling, DDPMs, latent diffusion, text-to-image systems |
+| Large Language Models | Architecture, training paradigms, inference optimization, evaluation, deployment of transformer-based models |
+| Transformers | Encoder-decoder models, self-attention scaling, positional encoding, pretraining/fine-tuning dynamics |
+| Deep Learning | CNNs, RNNs, optimization, regularization, representation learning, large-scale training |
+| Machine Learning | Supervised, unsupervised, reinforcement learning; model evaluation; feature engineering; production ML systems |
+
+### AI Agents & Orchestration
+
+| Skill | Description |
+|:--|:--|
+| AI Agents | Autonomous/semi-autonomous LLM agents, tool use, planning, memory, state machines, human-in-the-loop workflows |
+| Coding Agents | LLM-driven agents for repo navigation, refactoring, cross-file reasoning, test generation, code transformation |
+| Model Context Protocol | MCP servers/clients for secure, structured tool and data access for LLM agents |
+| LangChain | Chains, agents, tools, retrievers, memory, LangSmith observability, modular LLM application design |
+| LangGraph | Graph-based control flow for multi-actor, cyclic, long-running LLM workflows with durable state |
+| Prompt Engineering | Structured prompts, tool schemas, conversation protocols for reliability, controllability, reasoning depth |
+| RAG | End-to-end pipelines: embedding, chunking, vector search, hybrid retrieval, grounding in knowledge bases |
+
+### Engineering & Systems
+
+| Skill | Description |
+|:--|:--|
+| Software Engineering | End-to-end lifecycle: architecture, implementation, testing, deployment, operations (GitHub, CI/CD, Unix) |
+| Distributed Systems | Scalable, fault-tolerant architectures, data pipelines, large-scale backend systems |
+| Cloud Applications | Cloud-native, high-throughput, globally distributed services (Google Cloud, BitTorrent) |
+| Data & Analytics | Metrics systems, analytical pipelines, executive dashboards (SQL, Big Data, Data Visualization) |
+
+### Web3 & Product
+
+| Skill | Description |
+|:--|:--|
+| Web3 / Blockchain | Ethereum ecosystem, wallets, smart contracts, DAOs, zero-knowledge systems (Consensys, MetaMask) |
+| Product Management | Product strategy, OKRs, roadmapping, execution, growth, cross-functional alignment |
+| Developer Relations | API platforms, SDKs, community growth, technical evangelism, developer experience (MetaMask) |
+
+<!--
+## Publications
+(No publications data provided)
+
+## Teaching
+(No teaching data provided)
+
+## Talks & Presentations
+(Presentations linked in project descriptions above)
+
+## Portfolio
+(See AI and ML Hackathons and Projects section above)
+
+## Blog Posts
+(No blog posts data provided)
+
+## CV
+(Skills and certifications included in sections above)
+-->
