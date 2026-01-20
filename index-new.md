@@ -6,17 +6,6 @@ profile_image: profile-400.jpg
 ---
 
 <style>
-/* Sidebar navigation */
-.page-wrapper { display: flex; flex-wrap: wrap; }
-.sidebar { width: 200px; position: sticky; top: 20px; height: fit-content; padding-right: 20px; }
-.sidebar ul { list-style: none; padding: 0; margin: 0; font-size: 0.9em; }
-.sidebar li { margin-bottom: 8px; }
-.sidebar a { color: #666; text-decoration: none; }
-.sidebar a:hover { color: #0366d6; }
-.sidebar .nav-h2 { font-weight: 600; margin-top: 12px; }
-.sidebar .nav-h3 { padding-left: 12px; font-size: 0.85em; }
-.main-content { flex: 1; min-width: 0; }
-
 /* Icon formatting */
 .cert-icon { width: 16px; height: 16px; vertical-align: middle; margin-right: 4px; }
 .issuer-cell { white-space: nowrap; }
@@ -24,31 +13,43 @@ profile_image: profile-400.jpg
 /* Profile spacing */
 .profile-section { margin-bottom: 30px; }
 
-/* Responsive */
-@media (max-width: 768px) {
-  .sidebar { display: none; }
-  .main-content { width: 100%; }
+/* Table of contents */
+.toc-sidebar {
+  position: fixed;
+  left: 20px;
+  top: 100px;
+  width: 180px;
+  font-size: 0.85em;
+  background: #f8f8f8;
+  padding: 15px;
+  border-radius: 8px;
+}
+.toc-sidebar ul { list-style: none; padding: 0; margin: 0; }
+.toc-sidebar li { margin-bottom: 8px; }
+.toc-sidebar a { color: #666; text-decoration: none; }
+.toc-sidebar a:hover { color: #0366d6; }
+.toc-sidebar .toc-h2 { font-weight: 600; margin-top: 10px; }
+.toc-sidebar .toc-h3 { padding-left: 10px; font-size: 0.9em; }
+
+@media (max-width: 1200px) {
+  .toc-sidebar { display: none; }
 }
 </style>
 
-<div class="page-wrapper">
-
-<nav class="sidebar">
+<nav class="toc-sidebar">
 <ul>
-<li class="nav-h2"><a href="#introduction">Introduction</a></li>
-<li class="nav-h2"><a href="#ai-and-ml-hackathons-and-projects">Hackathons & Projects</a></li>
-<li class="nav-h2"><a href="#professional-certifications">Certifications</a></li>
-<li class="nav-h3"><a href="#ai--llm-development">AI & LLM Development</a></li>
-<li class="nav-h3"><a href="#product--process">Product & Process</a></li>
-<li class="nav-h2"><a href="#professional-skills">Skills</a></li>
-<li class="nav-h3"><a href="#ai--machine-learning">AI & Machine Learning</a></li>
-<li class="nav-h3"><a href="#ai-agents--orchestration">AI Agents & Orchestration</a></li>
-<li class="nav-h3"><a href="#engineering--systems">Engineering & Systems</a></li>
-<li class="nav-h3"><a href="#web3--product">Web3 & Product</a></li>
+<li class="toc-h2"><a href="#introduction">Introduction</a></li>
+<li class="toc-h2"><a href="#ai-and-ml-hackathons-and-projects">Hackathons</a></li>
+<li class="toc-h2"><a href="#professional-certifications">Certifications</a></li>
+<li class="toc-h3"><a href="#ai--llm-development">AI & LLM</a></li>
+<li class="toc-h3"><a href="#product--process">Product</a></li>
+<li class="toc-h2"><a href="#professional-skills">Skills</a></li>
+<li class="toc-h3"><a href="#ai--machine-learning">AI & ML</a></li>
+<li class="toc-h3"><a href="#ai-agents--orchestration">Agents</a></li>
+<li class="toc-h3"><a href="#engineering--systems">Engineering</a></li>
+<li class="toc-h3"><a href="#web3--product">Web3</a></li>
 </ul>
 </nav>
-
-<div class="main-content" markdown="1">
 
 <div class="profile-section">
   <img src="{{ page.profile_image }}" alt="Profile Photo" class="profile-photo" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
@@ -134,6 +135,3 @@ I've recently conducted an artificial intelligence and machine learning deep div
 | Web3 / Blockchain | Ethereum ecosystem, wallets, smart contracts, DAOs, zero-knowledge systems (Consensys, MetaMask) |
 | Product Management | Product strategy, OKRs, roadmapping, execution, growth, cross-functional alignment |
 | Developer Relations | API platforms, SDKs, community growth, technical evangelism, developer experience (MetaMask) |
-
-</div>
-</div>
