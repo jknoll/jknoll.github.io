@@ -2,12 +2,15 @@
 
 # Site settings
 title: Justin F. Knoll
-email: your-email@example.com
 description: >-
   AI/ML Engineer - Hackathon winner, deep learning specialist,
   and agent orchestration expert
 baseurl: ""
 url: "https://jknoll.github.io"
+
+# Navigation - only show index.md in header
+header_pages:
+  - index.md
 
 # Build settings
 markdown: kramdown

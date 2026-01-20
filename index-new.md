@@ -2,7 +2,7 @@
 title: Justin F. Knoll
 layout: default
 author: Justin F. Knoll
-profile_image: placeholder-photo.jpg
+profile_image: profile.jpg
 ---
 
 <div class="profile-section">
