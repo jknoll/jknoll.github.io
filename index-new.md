@@ -97,6 +97,13 @@ Research project to implement a deep convolutional neural network to perform mul
 
 A model is trained to recognize the positions and themes and then to apply the same classification mechanism to positions during live games or during review of unseen games.
 
+### FungiTastic Hierarchical Classifier ($5K Grant Recipient)
+*January 2026*
+
+Research project modifying the BEiT vision transformer (87.9M parameters) to perform hierarchical, multi-task taxonomic classification of fungi species across six biological ranks (phylum, class, order, family, genus, species) instead of species-only prediction. Trained on the FungiTastic dataset (89,659 samples) with weighted cross-entropy loss to address extreme class imbalance. Achieved 89.91% top-1 accuracy at phylum level and 45.43% at species level. Includes analysis of model performance on dangerous species like *Amanita phalloides* (death cap). Supported by a $5K GPU credit research grant from Strong Compute.
+
+[GitHub](https://github.com/jknoll/amanita)
+
 ### ARC-AGI Hackathon ($10K Grant Recipient)
 *September 2024*
 
