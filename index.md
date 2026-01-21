@@ -6,9 +6,9 @@ profile_image: profile-400.jpg
 ---
 
 <style>
-/* Wider layout - 150% of default */
+/* Layout - narrower max-width for readable line length */
 .wrapper {
-  max-width: calc(800px * 1.5) !important;
+  max-width: 780px !important;
   padding-right: 30px !important;
   padding-left: 30px !important;
 }
@@ -41,7 +41,7 @@ profile_image: profile-400.jpg
 .toc-sidebar .toc-h2 { font-weight: 600; margin-top: 10px; }
 .toc-sidebar .toc-h3 { padding-left: 10px; font-size: 0.9em; }
 
-@media (max-width: 1200px) {
+@media (max-width: 600px) {
   .toc-sidebar { display: none; }
   .page-content { padding-left: 0; }
 }
