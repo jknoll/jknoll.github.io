@@ -72,6 +72,15 @@ I've recently conducted an artificial intelligence and machine learning deep div
 
 ## AI and ML Hackathons and Projects
 
+### AdFlow: Agentic Creative Director
+*January 2026*
+
+Built an AI-powered tool that automatically generates video advertisements from product URLs. The system extracts product metadata via web scraping (JSON-LD, Open Graph, HTML parsing), uses the Claude Agent SDK to orchestrate multi-agent workflows that craft compelling ad scripts and video prompts, and generates short video ads via Kie.ai (Veo 3) and FreePik (WAN 2.6) APIs. Features dual Web UI and CLI interfaces, real-time progress tracking, and a REST API for integration.
+
+Submitted to the Agentic Orchestration Hack hosted by CreatorsCorner and AWS Builder Loft in San Francisco, featuring sponsors including AWS, Anthropic, Anyscale, ElevenLabs, Retool, and others.
+
+[GitHub](https://github.com/jknoll/adflow)
+
 ### Chess AI Hackathon Series (Six-Time Winner)
 *August 2024–March 2025*
 
