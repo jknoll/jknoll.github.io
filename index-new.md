@@ -72,14 +72,12 @@ I've recently conducted an artificial intelligence and machine learning deep div
 
 ## AI and ML Hackathons and Projects
 
-### AdFlow: Agentic Creative Director
+### [AdFlow: Agentic Creative Director](https://github.com/jknoll/adflow)
 *January 2026*
 
 Built an AI-powered tool that automatically generates video advertisements from product URLs. The system extracts product metadata via web scraping (JSON-LD, Open Graph, HTML parsing), uses the Claude Agent SDK to orchestrate multi-agent workflows that craft compelling ad scripts and video prompts, and generates short video ads via Kie.ai (Veo 3) and FreePik (WAN 2.6) APIs. Features dual Web UI and CLI interfaces, real-time progress tracking, and a REST API for integration.
 
 Submitted to the Agentic Orchestration Hack hosted by CreatorsCorner and AWS Builder Loft in San Francisco, featuring sponsors including AWS, Anthropic, Anyscale, ElevenLabs, Retool, and others.
-
-[GitHub](https://github.com/jknoll/adflow)
 
 ### Chess AI Hackathon Series (Six-Time Winner)
 *August 2024–March 2025*
@@ -90,19 +88,17 @@ Explored two high-level approaches: a vision-like CNN model and a language-like 
 
 Returned as a solo entrant to win five out of six subsequent instances of the tournament.
 
-### Chess Theme and Opening Multilabel Classifier (Grant Recipient)
+### [Chess Theme and Opening Multilabel Classifier](https://github.com/jknoll/chess-theme-classifier) (Grant Recipient)
 *April 2025–July 2025*
 
 Research project to implement a deep convolutional neural network to perform multi-label classification of board positions sourced from the lichess puzzles dataset. Each board position is labeled with applicable themes (for example, back rank mate, zugzwang, advanced pawn, etc.) as well as openings, if relevant (for example, Sicilian Defense, The English Opening, etc.).
 
 A model is trained to recognize the positions and themes and then to apply the same classification mechanism to positions during live games or during review of unseen games.
 
-### FungiTastic Hierarchical Classifier ($5K Grant Recipient)
+### [FungiTastic Hierarchical Classifier](https://github.com/jknoll/amanita) ($5K Grant Recipient)
 *January 2026*
 
 Research project modifying the BEiT vision transformer (87.9M parameters) to perform hierarchical, multi-task taxonomic classification of fungi species across six biological ranks (phylum, class, order, family, genus, species) instead of species-only prediction. Trained on the [FungiTastic](https://bohemianvra.github.io/FungiTastic/) dataset (~350K observations, >600K images, >5K species) with weighted cross-entropy loss to address extreme class imbalance. Achieved 89.91% top-1 accuracy at phylum level and 45.43% at species level. Includes analysis of model performance on dangerous species like *Amanita phalloides* (death cap). Supported by a $5K GPU credit research grant from Strong Compute.
-
-[GitHub](https://github.com/jknoll/amanita)
 
 ### ARC-AGI Hackathon ($10K Grant Recipient)
 *September 2024*
