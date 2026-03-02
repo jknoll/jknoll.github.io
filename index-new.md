@@ -72,6 +72,11 @@ I've recently conducted an artificial intelligence and machine learning deep div
 
 ## AI and ML Hackathons and Projects
 
+### [Clinical Trial Compass](https://github.com/jknoll/clinical-trial-copilot)
+*February 2026*
+
+AI-powered clinical trial navigator for patients and caregivers, built for the "Built with Opus 4.6" Hackathon (Cerebral Valley x Anthropic, Feb 2026). Uses Claude Opus 4.6 with multi-agent orchestration to conduct patient interviews, search ClinicalTrials.gov, score eligibility against inclusion/exclusion criteria, and generate plain-language reports with interactive visualizations. Includes a companion iOS HealthKit app ([clinical-trial-health-ios](https://github.com/jknoll/clinical-trial-health-ios)) for real-time health data integration.
+
 ### [AdFlow: Agentic Creative Director](https://github.com/jknoll/adflow)
 *January 2026*
 
